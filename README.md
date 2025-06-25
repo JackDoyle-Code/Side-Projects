@@ -16,3 +16,14 @@ The dataset used for testing the program is stored in this CSV file. It includes
 
 ### Jupyter Notebook (Employment_Scheduling_Program.ipynb):
 This Jupyter notebook contains the Python code used to develop the employment scheduling solution. It leverages Google's OR-Tools to optimise employee schedules based on input data. The notebook includes detailed explanations of the logic behind the algorithm, and demonstrates how the constraints are modeled and solved. You can run and modify the code in an interactive environment.
+
+
+## 2. Excel VBA based programmes
+### Overview
+I have created various SUBs/Functions in VBA to assist in handling specific tasks related to document managing / data analysis  / data extraction. The data used to test the effectiveness of these functions/SUBs cannot be shared due to confideniality reasons.
+
+### SUBs
+  1. Dynamic count function - Used to count a range of cells repeatedly, when there are gaps between the next event of values
+
+### Functions
+  1. 
