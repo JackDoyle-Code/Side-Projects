@@ -23,7 +23,7 @@ This Jupyter notebook contains the Python code used to develop the employment sc
 I have created various SUBs/Functions in VBA to assist in handling specific tasks related to document managing / data analysis  / data extraction. The data used to test the effectiveness of these functions/SUBs cannot be shared due to confideniality reasons.
 
 ### SUBs
-  1. Dynamic count function - Used to count a range of cells repeatedly, when there are gaps between the next event of values
+  1. Dynamic count SUB - Used to count a range of cells repeatedly, when there are gaps between the next event of values
 
 ### Functions
-  1. 
+  1. Split String Function - Uses a regular expression to split a string based on a specific character
