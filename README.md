@@ -18,12 +18,15 @@ The dataset used for testing the program is stored in this CSV file. It includes
 This Jupyter notebook contains the Python code used to develop the employment scheduling solution. It leverages Google's OR-Tools to optimise employee schedules based on input data. The notebook includes detailed explanations of the logic behind the algorithm, and demonstrates how the constraints are modeled and solved. You can run and modify the code in an interactive environment.
 
 
-## 2. Excel VBA based programmes
+## 2. Excel VBA Based Programmes
 ### Overview
 I have created various SUBs/Functions in VBA to assist in handling specific tasks related to document managing / data analysis  / data extraction. The data used to test the effectiveness of these functions/SUBs cannot be shared due to confideniality reasons.
 
 ### SUBs
-  1. Dynamic count SUB - Used to count a range of cells repeatedly, when there are gaps between the next event of values
+  1. Dynamic Count SUB - Used to count a range of cells repeatedly, when there are gaps between the next event of values
 
 ### Functions
   1. Split String Function - Uses a regular expression to split a string based on a specific character
+  2. Basic Remove Zeros Function - Removes zeros from a 1D range
+  3. Advanced Remove Zeros Function - Removes any zeros from a given array based on a specified row/column. The output is the same array excluding zeros from the specific row/column
+
