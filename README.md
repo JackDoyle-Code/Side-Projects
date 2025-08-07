@@ -24,6 +24,7 @@ I have created various SUBs/Functions in VBA to assist in handling specific task
 
 ### SUBs
   1. Dynamic Count SUB - Used to count a range of cells repeatedly, when there are gaps between the next event of values
+  2. Transfer Data SUB - Used to transfer data from one workbook to a new workbook based on a speciic column (excluding empty cells) 
 
 ### Functions
   1. Split String Function - Uses a regular expression to split a string based on a specific character
